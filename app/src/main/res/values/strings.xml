@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gossips</string>
+    <string name="textview">TextView</string>
+    <string name="please_set_your_name_and_optional_profile_image">Please Set Your Name and Optional Profile Image</string>
+    <string name="profile_info">Profile Info</string>
+    <string name="setup_profile">SETUP PROFILE</string>
+    <string name="uid">uid</string>
+</resources>
